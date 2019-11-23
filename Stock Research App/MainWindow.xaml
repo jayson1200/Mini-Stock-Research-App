@@ -1,0 +1,16 @@
+﻿<Window x:Class="Stock_Research_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Stock_Research_App"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="UsrWntTckerSym" HorizontalAlignment="Left" Height="38" Margin="48,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" FontWeight="Bold" FontSize="18"/>
+        <Button x:Name="EnterButton" Content="Enter" HorizontalAlignment="Left" Margin="191,36,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold" Click="EnterButton_Click"/>
+        <TextBox x:Name="infoBox" HorizontalAlignment="Left" Height="248" Margin="48,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="497" FontSize="14" FontWeight="Bold" BorderThickness="5"/>
+        <Button x:Name="GoToWebsite" Content="Company Website" HorizontalAlignment="Left" Margin="286,36,0,0" VerticalAlignment="Top" Width="117" FontWeight="Bold" Click="GoToWebsite_Click"/>
+        <Image x:Name="companyImg" HorizontalAlignment="Right" Height="143" Margin="0,103,31.6,0" VerticalAlignment="Top" Width="157"/>
+    </Grid>
+</Window>

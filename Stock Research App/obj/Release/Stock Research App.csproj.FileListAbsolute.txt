@@ -1,0 +1,19 @@
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\bin\Release\Stock Research App.exe.config
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\bin\Release\Stock Research App.exe
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\bin\Release\Stock Research App.pdb
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\bin\Release\Newtonsoft.Json.dll
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\bin\Release\Newtonsoft.Json.xml
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\Stock Research App.csprojAssemblyReference.cache
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\MainWindow.g.cs
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\App.g.cs
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\Stock Research App_MarkupCompile.cache
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\Stock Research App_MarkupCompile.lref
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\MainWindow.baml
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\Stock Research App.g.resources
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\Stock_Research_App.Properties.Resources.resources
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\Stock Research App.csproj.GenerateResource.cache
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\Stock Research App.csproj.CopyComplete
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\Stock Research App.exe
+C:\Users\jayso\source\repos\Stock Research App\Stock Research App\obj\Release\Stock Research App.pdb
